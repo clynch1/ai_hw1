@@ -1,0 +1,1 @@
+java -jar "ai_hw1.jar"
